@@ -1,5 +1,5 @@
 <?php
-    
+    echo "vai corintias <br>";
     $j = 0;
     
     do {
