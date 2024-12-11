@@ -1,0 +1,26 @@
+{
+    "frutas": [
+      {
+        "nome": "Banana",
+        "preco": 3.50
+      },
+      {
+        "nome": "Maçã",
+        "preco": 4.00
+      },
+      {
+        "nome": "Laranja",
+        "preco": 2.80
+      },
+      {
+        "nome": "Abacaxi",
+        "preco": 6.00
+      },
+      {
+        "nome": "Uva",
+        "preco": 5.20
+      }
+    ]
+  }
+  
+  
